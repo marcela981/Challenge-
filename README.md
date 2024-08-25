@@ -36,11 +36,6 @@ También puedes usar el enlace a la derecha que redireciona al deploymente en Ve
 - **CSS3**
 - **JavaScript ES6+**
 
-## 🖋️ Autor
+##  Autor
 - **Nombre del Autor**: Marcela Mazo Castro.
 - **GitHub**: [GitHub](https://github.com/marcela981)
-
-
----
-
-Este README proporciona una descripción clara y concisa de tu proyecto, especificando los requisitos, funcionalidades y tecnologías utilizadas. También incluye un espacio para que añadas tus perfiles en GitHub, CodePen y Replit, para que otros puedan ver tu trabajo y seguir tu desarrollo.
